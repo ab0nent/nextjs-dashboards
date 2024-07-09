@@ -6,7 +6,6 @@
     "start": "next start"
   },
   "dependencies": {
-    "@heroicons/react": "^2.1.4",
     "@tailwindcss/forms": "^0.5.7",
     "@vercel/postgres": "^0.8.0",
     "autoprefixer": "10.4.19",
@@ -23,6 +22,7 @@
     "zod": "^3.23.8"
   },
   "devDependencies": {
+    "@heroicons/react": "^2.1.4",
     "@types/bcrypt": "^5.0.2",
     "@types/node": "20.14.8",
     "@types/react": "18.3.3",
